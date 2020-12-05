@@ -4,6 +4,12 @@ This repository contains resources developed within the following paper:
 
 > S. Zhang and K. Balog. Semantic Table Retrieval using Keyword and Table Queries. In: *ACM Transactions on the Web (TWEB)*, 2021.
 
+This work is an extension of
+
+> S. Zhang and K. Balog. Ad Hoc Table Retrieval using Semantic Similarity. In: Proceedings of the Web Conference 2018 (WWW '18), April 2018.
+
+The keyword table search utilizes the same benchmark as it, and we here supply additional test collection for table search using a table query.
+
 
 ## Test collection
 
