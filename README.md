@@ -31,7 +31,7 @@ The evaluation scores are reported using [trec_eval](https://github.com/usnistgo
 
 ## Citation
 ```
-@inproceedings{Zhang:2021:STR,
+@article{Zhang:2021:STR,
     author = {Zhang, Shuo and Balog, Krisztian},
     title = {Semantic Table Retrieval using Keyword and Table Queries},
     booktitle = {ACM Transactions on the Web},
