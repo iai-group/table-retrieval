@@ -32,17 +32,15 @@ The evaluation scores are reported using [trec_eval](https://github.com/usnistgo
 ## Citation
 ```
 @article{Zhang:2021:STR,
-author = {Zhang, Shuo and Balog, Krisztian},
-title = {Semantic Table Retrieval Using Keyword and Table Queries},
-year = {2021},
-issue_date = {May 2021},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-volume = {15},
-number = {3},
-journal = {ACM Trans. Web},
-articleno = {11},
-numpages = {33}
+  author = {Zhang, Shuo and Balog, Krisztian},
+  title = {Semantic Table Retrieval Using Keyword and Table Queries},
+  year = {2021},
+  issue_date = {May 2021},
+  volume = {15},
+  number = {3},
+  journal = {ACM Trans. Web},
+  articleno = {11},
+  numpages = {33}
 }
 
 
