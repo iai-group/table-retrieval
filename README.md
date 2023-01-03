@@ -13,7 +13,7 @@ The keyword table search utilizes the same benchmark as it, and we here supply a
 
 ## Test collection
 
-The table corpus is [WikiTables](http://websail-fe.cs.northwestern.edu/TabEL/), which comprises 1.6M tables extracted from Wikipedia. We proproceeed it and make it public downloadable [here](https://drive.google.com/file/d/1rFWPZFT61Gnxdf2k6he72hKc4t7Tz4kr/view?usp=share_link).
+The table corpus is [WikiTables](http://websail-fe.cs.northwestern.edu/TabEL/), which comprises 1.6M tables extracted from Wikipedia. We proproceeed it and make it public downloadable [here](http://iai.group/downloads/smart_table/WP_tables.zip).
 
 The `data/*/queries.txt` file contains the search queries.
 
